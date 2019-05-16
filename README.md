@@ -1,6 +1,6 @@
 # WebSocket 90 min
 
-1.	Запустил index.html.
+1.	Запустил index.html + открыл консоль (F12)
 2.	Пришло в консоль: 
 {"message":"You successfully accept challenge","next":"arithmetic", "token":"b55e9e9d797bb6b1"}
 - взял полученный "token":"b55e9e9d797bb6b1"
