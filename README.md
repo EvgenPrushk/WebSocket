@@ -78,3 +78,4 @@ ws.send(JSON.stringify({
 21.	Отправил свой гитхаб и секретный код в форму(https://docs.google.com/forms/d/e/1FAIpQLSe4sehTAUjNDp4VZzdtO3VFh0xT_G0GhpvxTZphDwVDbq5iLw/viewform)
 >>>>>>> 5e626eec939bb793862e0eec57bc7f3c1690c870
 # win-win
+# win-win
